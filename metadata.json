@@ -1,0 +1,7 @@
+{
+  "name": "CondoMaster Pro - Sistema de Gestão Condominial",
+  "description": "Uma plataforma robusta para administração de condomínios com dashboards em tempo real, gestão financeira, controle de moradores e assistência inteligente via Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
